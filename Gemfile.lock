@@ -1,0 +1,373 @@
+GIT
+  remote: https://github.com/amatsuda/kaminari.git
+  revision: fe01a41046d127239343a4380dd18e456f270f82
+  specs:
+    kaminari (0.12.4)
+      railties (>= 3.0.0)
+
+GIT
+  remote: https://github.com/andi/simple-navigation.git
+  revision: 1d9b5c5ef6a8e181d2f6f74ed4408bfd9e9c8901
+  specs:
+    simple-navigation (3.5.0)
+      activesupport (>= 2.3.2)
+
+GIT
+  remote: https://github.com/bblimke/webmock.git
+  revision: 76eefec5bce22153f8a83d4a6de6fa4d5f678545
+  specs:
+    webmock (1.7.6)
+      addressable (~> 2.2, > 2.2.5)
+      crack (>= 0.1.7)
+
+GIT
+  remote: https://github.com/cavalle/steak.git
+  revision: 726b6d1a9aad83b51cddc103668359d9966f41e8
+  specs:
+    steak (2.0.0)
+      capybara (>= 1.0.0)
+      rspec-rails (>= 2.5.0)
+
+GIT
+  remote: https://github.com/evansagge/mongoid-rspec.git
+  revision: c6e4ca867788fcb4678e46dec64961e8835780e4
+  specs:
+    mongoid-rspec (1.4.4)
+      mongoid (~> 2.0)
+      rake
+      rspec (~> 2)
+
+GIT
+  remote: https://github.com/jnicklas/capybara.git
+  revision: 1b6dca33d4f8f54d35c7585d0d340f3e75c76300
+  specs:
+    capybara (1.1.1)
+      mime-types (>= 1.16)
+      nokogiri (>= 1.3.3)
+      rack (>= 1.0.0)
+      rack-test (>= 0.5.4)
+      selenium-webdriver (~> 2.0)
+      xpath (~> 0.1.4)
+
+GIT
+  remote: https://github.com/jnicklas/carrierwave.git
+  revision: f82d9112c4c29deb13085fa27e9eba686445235c
+  specs:
+    carrierwave (0.5.7)
+      activesupport (~> 3.0)
+
+GIT
+  remote: https://github.com/kuruma-gs/current.git
+  revision: 4eb5acec342a0160627196b67f79868d513d46e4
+  specs:
+    current (0.0.7)
+
+GIT
+  remote: https://github.com/kuruma-gs/strut.git
+  revision: 6f42ccb7e8fae306c8ded2678e0961be526ae987
+  specs:
+    strut (0.0.4)
+      kaminari (>= 0.0.1)
+      mongoid (>= 2.1.0)
+      rails (>= 3.0.0)
+
+GIT
+  remote: https://github.com/nunukim/resque_spec.git
+  revision: fae34f9aeb2d54d2d0c76005aead43640fc0ae78
+  specs:
+    resque_spec (0.6.5)
+      resque (>= 1.15.0)
+      rspec (>= 2.5.0)
+
+GIT
+  remote: https://github.com/nunukim/stateflow.git
+  revision: 5fa69e1e13e28ab669046d6a715c5458c834c875
+  specs:
+    stateflow (0.5.0.beta)
+      activesupport
+
+GIT
+  remote: https://github.com/plataformatec/devise.git
+  revision: ea7f15917f70b82d1ddc9559db968894f2c82cad
+  specs:
+    devise (1.4.5)
+      bcrypt-ruby (~> 3.0)
+      orm_adapter (~> 0.0.3)
+      warden (~> 1.0.3)
+
+GIT
+  remote: https://github.com/probablycorey/mini_magick.git
+  revision: 5838f409936f6c269c001af85b74a64ab0d8bd65
+  specs:
+    mini_magick (3.3)
+      subexec (~> 0.1.0)
+
+GIT
+  remote: https://github.com/thoughtbot/factory_girl_rails.git
+  revision: c7d54d2c31b49a27e7b303acee854a0788475aea
+  specs:
+    factory_girl_rails (1.2.0)
+      factory_girl (~> 2.1.0)
+      railties (>= 3.0.0)
+
+GIT
+  remote: https://github.com/timcharper/spork.git
+  revision: 2bb3143af5f97474db6cbd95c0a77d333f5c36fd
+  specs:
+    spork (0.9.0.rc9)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    ZenTest (4.5.0)
+    actionmailer (3.1.0.rc8)
+      actionpack (= 3.1.0.rc8)
+      mail (~> 2.3.0)
+    actionpack (3.1.0.rc8)
+      activemodel (= 3.1.0.rc8)
+      activesupport (= 3.1.0.rc8)
+      builder (~> 3.0.0)
+      erubis (~> 2.7.0)
+      i18n (~> 0.6)
+      rack (~> 1.3.2)
+      rack-cache (~> 1.0.3)
+      rack-mount (~> 0.8.2)
+      rack-test (~> 0.6.1)
+      sprockets (~> 2.0.0.beta.15)
+    activemodel (3.1.0.rc8)
+      activesupport (= 3.1.0.rc8)
+      bcrypt-ruby (~> 3.0.0)
+      builder (~> 3.0.0)
+      i18n (~> 0.6)
+    activerecord (3.1.0.rc8)
+      activemodel (= 3.1.0.rc8)
+      activesupport (= 3.1.0.rc8)
+      arel (~> 2.2.1)
+      tzinfo (~> 0.3.29)
+    activeresource (3.1.0.rc8)
+      activemodel (= 3.1.0.rc8)
+      activesupport (= 3.1.0.rc8)
+    activesupport (3.1.0.rc8)
+      multi_json (~> 1.0)
+    addressable (2.2.6)
+    ansi (1.3.0)
+    arel (2.2.1)
+    autotest (4.4.6)
+      ZenTest (>= 4.4.1)
+    autotest-fsevent (0.2.5)
+      sys-uname
+    autotest-growl (0.2.9)
+    autotest-rails (4.1.1)
+      ZenTest (= 4.5)
+    bcrypt-ruby (3.0.1)
+    bson (1.3.1)
+    bson_ext (1.3.1)
+    builder (3.0.0)
+    childprocess (0.2.2)
+      ffi (~> 1.0.6)
+    coffee-rails (3.1.0)
+      coffee-script (>= 2.2.0)
+      railties (~> 3.1.0.rc1)
+    coffee-script (2.2.0)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.1.2)
+    crack (0.1.8)
+    cucumber (1.0.4)
+      builder (>= 2.1.2)
+      diff-lcs (>= 1.1.2)
+      gherkin (~> 2.4.18)
+      json (>= 1.4.6)
+      term-ansicolor (>= 1.0.6)
+    diff-lcs (1.1.3)
+    dynamic_form (1.1.4)
+    erubis (2.7.0)
+    execjs (1.2.5)
+      multi_json (~> 1.0)
+    factory_girl (2.1.0)
+    faraday (0.6.1)
+      addressable (~> 2.2.4)
+      multipart-post (~> 1.1.0)
+      rack (>= 1.1.0, < 2)
+    ffi (1.0.9)
+    gherkin (2.4.18)
+      json (>= 1.4.6)
+    growl (1.0.3)
+    guard (0.6.3)
+      thor (~> 0.14.6)
+    guard-cucumber (0.6.3)
+      cucumber (>= 0.10)
+      guard (>= 0.4.0)
+    guard-rspec (0.4.5)
+      guard (>= 0.4.0)
+    guard-spork (0.2.1)
+      guard (>= 0.2.2)
+      spork (>= 0.8.4)
+    hike (1.2.1)
+    i18n (0.6.0)
+    jquery-rails (1.0.14)
+      railties (~> 3.0)
+      thor (~> 0.14)
+    json (1.6.0)
+    json_pure (1.6.0)
+    mail (2.3.0)
+      i18n (>= 0.4.0)
+      mime-types (~> 1.16)
+      treetop (~> 1.4.8)
+    mime-types (1.16)
+    mongo (1.3.1)
+      bson (>= 1.3.1)
+    mongoid (2.2.0)
+      activemodel (~> 3.0)
+      mongo (~> 1.3)
+      tzinfo (~> 0.3.22)
+    multi_json (1.0.3)
+    multi_xml (0.2.2)
+    multipart-post (1.1.3)
+    nokogiri (1.5.0)
+    oa-core (0.2.6)
+    oa-oauth (0.2.6)
+      faraday (~> 0.6.1)
+      multi_json (~> 1.0.0)
+      multi_xml (~> 0.2.2)
+      oa-core (= 0.2.6)
+      oauth (~> 0.4.0)
+      oauth2 (~> 0.4.1)
+    oauth (0.4.5)
+    oauth-plugin (0.3.14)
+      oauth (>= 0.3.5)
+    oauth2 (0.4.1)
+      faraday (~> 0.6.1)
+      multi_json (>= 0.0.5)
+    orm_adapter (0.0.5)
+    polyglot (0.3.2)
+    rack (1.3.2)
+    rack-cache (1.0.3)
+      rack (>= 0.4)
+    rack-mount (0.8.3)
+      rack (>= 1.0.0)
+    rack-ssl (1.3.2)
+      rack
+    rack-test (0.6.1)
+      rack (>= 1.0)
+    rails (3.1.0.rc8)
+      actionmailer (= 3.1.0.rc8)
+      actionpack (= 3.1.0.rc8)
+      activerecord (= 3.1.0.rc8)
+      activeresource (= 3.1.0.rc8)
+      activesupport (= 3.1.0.rc8)
+      bundler (~> 1.0)
+      railties (= 3.1.0.rc8)
+    railties (3.1.0.rc8)
+      actionpack (= 3.1.0.rc8)
+      activesupport (= 3.1.0.rc8)
+      rack-ssl (~> 1.3.2)
+      rake (>= 0.8.7)
+      rdoc (~> 3.4)
+      thor (~> 0.14.6)
+    rake (0.9.2)
+    rb-fsevent (0.4.3.1)
+    rdoc (3.9.4)
+    redis (2.2.2)
+    redis-namespace (1.0.3)
+      redis (< 3.0.0)
+    resque (1.19.0)
+      multi_json (~> 1.0)
+      redis-namespace (~> 1.0.2)
+      sinatra (>= 0.9.2)
+      vegas (~> 0.1.2)
+    rspec (2.6.0)
+      rspec-core (~> 2.6.0)
+      rspec-expectations (~> 2.6.0)
+      rspec-mocks (~> 2.6.0)
+    rspec-core (2.6.4)
+    rspec-expectations (2.6.0)
+      diff-lcs (~> 1.1.2)
+    rspec-mocks (2.6.0)
+    rspec-rails (2.6.1)
+      actionpack (~> 3.0)
+      activesupport (~> 3.0)
+      railties (~> 3.0)
+      rspec (~> 2.6.0)
+    rubyzip (0.9.4)
+    sass (3.1.7)
+    sass-rails (3.1.0.rc.7)
+      actionpack (~> 3.1.0.rc6)
+      railties (~> 3.1.0.rc6)
+      sass (>= 3.1.4)
+    selenium-webdriver (2.5.0)
+      childprocess (>= 0.2.1)
+      ffi (>= 1.0.7)
+      json_pure
+      rubyzip
+    sinatra (1.2.6)
+      rack (~> 1.1)
+      tilt (>= 1.2.2, < 2.0)
+    sprockets (2.0.0)
+      hike (~> 1.2)
+      rack (~> 1.0)
+      tilt (~> 1.1, != 1.3.0)
+    subexec (0.1.0)
+    sys-uname (0.8.6)
+    term-ansicolor (1.0.6)
+    thor (0.14.6)
+    tilt (1.3.3)
+    treetop (1.4.10)
+      polyglot
+      polyglot (>= 0.3.1)
+    turn (0.8.2)
+      ansi (>= 1.2.2)
+    tzinfo (0.3.29)
+    uglifier (1.0.3)
+      execjs (>= 0.3.0)
+      multi_json (>= 1.0.2)
+    vegas (0.1.8)
+      rack (>= 1.0.0)
+    warden (1.0.5)
+      rack (>= 1.0)
+    wirble (0.1.3)
+    xpath (0.1.4)
+      nokogiri (~> 1.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  autotest
+  autotest-fsevent
+  autotest-growl
+  autotest-rails
+  bson_ext
+  capybara!
+  carrierwave!
+  coffee-rails (~> 3.1.0.rc)
+  current!
+  devise!
+  dynamic_form
+  factory_girl_rails!
+  growl
+  guard-cucumber
+  guard-rspec
+  guard-spork
+  jquery-rails
+  kaminari!
+  mini_magick!
+  mongoid
+  mongoid-rspec!
+  oa-oauth
+  oauth-plugin
+  rails (= 3.1.0.rc8)
+  rb-fsevent
+  resque_spec!
+  rspec
+  rspec-rails
+  sass-rails (~> 3.1.0.rc)
+  simple-navigation!
+  spork!
+  stateflow!
+  steak!
+  strut!
+  turn
+  uglifier
+  webmock!
+  wirble
