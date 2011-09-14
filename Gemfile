@@ -7,7 +7,7 @@ gem 'rails', '3.1.0.rc8'
 
 # 認証
 gem 'devise', :git => "https://github.com/plataformatec/devise.git"
-gem "oauth-plugin"
+gem "oauth-plugin", "=0.4.0.pre7"
 gem "oa-oauth", :require => "omniauth/oauth" 
 
 # view
